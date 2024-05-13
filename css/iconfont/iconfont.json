@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "357743",
+      "name": "阅读，读书,书",
+      "font_class": "1",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "772246",
+      "name": "购物 购物车 订购",
+      "font_class": "gouwugouwuchedinggou",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "3266107",
+      "name": "设计",
+      "font_class": "sheji",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "3878696",
+      "name": "音乐",
+      "font_class": "vynil",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "3900137",
+      "name": "旅游主题_帆船",
+      "font_class": "tubiaozhizuomoban_fanchuan",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "5197625",
+      "name": "摄影机",
+      "font_class": "sheyingji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "8006836",
+      "name": "情感",
+      "font_class": "qinggan",
+      "unicode": "e515",
+      "unicode_decimal": 58645
+    },
+    {
+      "icon_id": "11995281",
+      "name": "美食",
+      "font_class": "meishi",
+      "unicode": "e7a2",
+      "unicode_decimal": 59298
+    },
+    {
+      "icon_id": "15391390",
+      "name": "电影",
+      "font_class": "dianying",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "39666534",
+      "name": "冥想",
+      "font_class": "mingxiang",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    }
+  ]
+}
